@@ -1,0 +1,365 @@
+.bsu{
+    background-color:skyblue;
+    border: 1px solid black;
+    height: 760px;
+    width: 30px;
+   
+}
+.menu,li{
+    position: relative;
+    top:0px;
+    padding: 30px;
+    color: black;
+    text-decoration:none;
+
+}
+.menu,ul,li{
+    list-style-type:none;
+}
+    
+.basu{
+    position:relative;
+    
+    left:10px;
+    background-color:pink;
+    border-radius:40px;
+}
+.Sai{
+    overflow-x: hidden;
+    
+}
+.adi,p{
+    float:right;
+    position:relative;
+  p {top:-40px;} 
+  p {color:blue} 
+  h5 {color:red}
+ 
+  height:100px;
+}
+.ab,p{
+    top:-40px;
+    p {color:blue} 
+    h5 {color:red}
+    
+}
+.mm{
+    h5 {color:red}
+    p {color:blue} 
+    border:2px solid black;
+    height:90px;
+
+}
+.mn{
+    position:relative;
+    top:90px;
+  
+
+}
+.po{
+   
+    border-radius: 20px;
+    background-color:#E8F0C5 ;
+    border:2px solid black;
+    
+}
+.kl{
+    border:2px solid black;
+    height:90px;
+    border-radius: 20px;
+    background-color:#E8F0C5 ;
+}
+.mm{
+    border-radius: 20px;
+    background-color:#E8F0C5 ;
+}
+
+.mia{
+    background-color: #F2F4F5;
+}
+#ss{
+    width:300px;
+    background: transparent;
+    border-radius: 20px;
+    background-color:white;
+} 
+.sk{
+    border:3px solid white;
+    background-color:white;
+    border-radius:10px;
+}
+.ni{
+    border:3px solid white;
+    background-color: white;
+    border-radius:10px;
+}
+
+.su{
+    border:3px solid white;
+    background-color: white;
+    border-radius:10px;
+}
+
+.ai{
+    border:3px solid white;
+    background-color:white;
+    height:200px;
+    border-radius:10px;
+}
+
+.ia{
+    position:relative;
+    top:30px;
+}
+.la{
+    border:3px solid white;
+    background-color: white;
+    height:200px;
+    border-radius:10px;
+}
+
+.na{
+    position:relative;
+    top:30px;
+}
+.di{
+    border:3px solid white;
+    background-color: white;
+    height:200px;
+    border-radius:10px;
+}
+
+.km{position:relative;
+    top:30px;
+}
+.ak{
+    border:3px solid white;
+    background-color: white;
+    height:200px;
+}
+.ka{
+    position:relative;
+    top:30px;
+
+}
+.am{
+    border:5px solid white;
+    height:390px;
+    background-color: white;
+
+}
+ .ad{
+    border:5px solid white;
+    background-color: white;
+
+    height:390px; 
+ }
+ #jj{
+    width:1000px;
+    border-radius: 30px;
+    position:relative;
+    top:20px;
+    background:transparent;
+ }
+ #OP{
+    position: relative;
+    float:right;
+    right:350px;
+    top: 22px;
+
+ }
+ label{
+    float:right;
+    position: relative;
+    right:200px;
+    
+ }
+#students{
+    float:right;
+    position: relative;
+    left:100px;
+    width:200px;
+}
+.aa{
+    position: relative;
+    top:30px;
+}
+.ra{
+    float:right;
+    border-radius:30px;
+    position: relative;
+    right:20px;
+    bottom: 20px;
+    background-color:red;
+}
+.ar{
+    float:right;
+    border-radius:30px;
+    position: relative;
+    right:30px; 
+    bottom: 20px;
+}
+#op{
+    position:relative;
+     left:120px;
+    bottom:30px;}
+.ll{
+    position: relative;
+    left:150px;
+    bottom:55px;
+    color:red;
+  }   
+  #ob{
+    position:relative;
+     left:300px;
+    bottom:90px;
+}
+.kk{
+    position: relative;
+    left:330px;
+    bottom:113px;
+    color:red;
+}
+.mia{
+    background-color:#F1F3F5;
+}
+
+
+.srv{
+    position: relative;
+    bottom:80px;
+}
+.bhaskar1{
+    border:1px solid black;
+    height:120px;
+    width:300px;
+    h6{color:orange}
+    background-color: white;
+   
+}
+.bhaskar2{
+    border:1px solid black;
+    height:120px;
+    width:300px;
+    h6{color:orange}
+    background-color: white;
+   
+}
+.bhaskar3{
+    border:1px solid black;
+    height:120px;
+    width:300px;
+    h6{color:orange}
+    background-color: white;
+}
+.sai2{
+    border: 2px solid black;
+     height: 50px;
+     h3{color:grey}
+     background-color: white;
+}
+#mia1{
+    position: relative;
+    text-align: center;
+    bottom:40px;
+}
+#mia2{position: relative;
+    bottom:80px;
+  float:right;
+  right:300px;
+}
+#mia3{position: relative;
+    bottom:80px;
+      float:right;
+}
+#mia4{
+    position: relative;
+    bottom:50px;
+    color:black;
+    
+}
+#mia5{
+    position: relative;
+    left:610px;
+    bottom:90px;
+    color:black;
+}
+#mia6{
+    position: relative;
+    left:915px;
+    bottom:130px;
+    color:orange;
+    border-radius: 20px;
+
+}
+#mia7{
+    position: relative;
+    float:right;
+    bottom:170px;
+    color:black;
+}
+.sai5{
+    position: relative;
+    bottom:110px;
+    
+}
+.sai7{
+    position: relative;
+    bottom:210px;
+   
+}
+.sai9{
+    position: relative;
+    bottom:310px;
+    
+}
+.sai11{
+    position: relative;
+    bottom:410px;
+    background-color: white;
+}
+
+  .zz{
+    background-color: #F1F3F5;
+    border: 1px solid black;
+  }
+  .nn{
+    height:450px;
+    display:100vh;
+   
+
+  }  
+  li:after{
+    content:"";
+    position: absolute;
+    height:2px;
+    width:10px;
+    left:10px;
+    
+    transition:0.3s;
+  }
+  
+  
+   li:hover{
+    background-color:white;
+    border-radius:10px;
+
+}  
+     li:hover:after{
+     width:100px;
+}
+.one{
+    overflow-y: hidden;
+    overflow-x: hidden;
+     }
+     .nn{
+       height:300px;
+     }
+      
+   
+
+   
+
+
+
+
